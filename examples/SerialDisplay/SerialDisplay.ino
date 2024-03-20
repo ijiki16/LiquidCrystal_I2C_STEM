@@ -1,9 +1,6 @@
 /*
  * Displays text sent over the serial port (e.g. from the Serial Monitor) on
  * an attached LCD.
- * YWROBOT
- *Compatible with the Arduino IDE 1.0
- *Library version:1.1
  */
 #include <LiquidCrystal_I2C_STEM.h>
 #include <Wire.h>
