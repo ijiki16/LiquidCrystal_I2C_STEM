@@ -1,6 +1,6 @@
 {
   "name": "LiquidCrystal_I2C_STEM",
-  "keywords": "LCD, liquidcrystal, I2C, STEM",
+  "keywords": "LCD, Liquid crystal, I2C, STEM",
   "description": "A library for DFRobot I2C LCD displays",
   "repository": {
     "type": "git",
